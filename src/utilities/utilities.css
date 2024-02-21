@@ -1,0 +1,24 @@
+.nav_link{
+    color: #fff !important;
+}
+
+.nav_link:hover .nav_link:focus{
+    color: #fff !important;
+    border-bottom: 2px solid #fff !important;
+    border-radius: 0px !important;
+}
+
+.nav_link.active{
+    background: transparent !important;
+    border-bottom: 2px solid #fff;
+    border-radius: 0px !important;
+}
+
+.form_input{
+    background: transparent !important;
+}
+
+.form_input::placeholder {
+    color: #fff;
+}
+

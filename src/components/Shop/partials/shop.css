@@ -1,0 +1,22 @@
+#main-slider{
+    margin-bottom: 15px;
+}
+.splide__slide{
+    display: flex;
+    justify-content: center;
+}
+.btn_secondary{
+    background: rgba(100, 100, 100, 1);
+    color: #fff;;
+}
+
+.btn_secondary:hover{
+    background: rgba(100, 100, 100, 1) !important;
+    color: #fff !important;
+}
+
+.form-control:focus {
+    border-color: #ced4da; /* Set the desired border color */
+    box-shadow: none; /* Remove the box shadow */
+    outline: 0; /* Remove the outline */
+}
